@@ -1,1 +1,3 @@
-# Git Test\n Git and GCM seems to be working!
+# Git Test
+
+Pushing from my work computer is working!
